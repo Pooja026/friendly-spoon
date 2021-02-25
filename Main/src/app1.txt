@@ -1,2 +1,3 @@
 Select * from employee
-where empid=12;
+where empid=12
+order by empid decs;
